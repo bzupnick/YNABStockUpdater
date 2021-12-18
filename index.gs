@@ -8,7 +8,6 @@ ROW_WITH_TOTAL_INDEX_FUND_ASSETS = "5"
 COLUMN_WITH_TOTAL_INDEX_FUND_ASSETS = "7"
 ROW_WITH_TOTAL_CRYPTO_ASSETS = "5"
 COLUMN_WITH_TOTAL_CRYPTO_ASSETS = "5"
-PAYEE_NAME = "Stock Market"
 
 
 function call_ynab_api(method, endpoint, payload=null) {
